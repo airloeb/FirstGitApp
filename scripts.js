@@ -1,1 +1,3 @@
-alert('Boo');
+$('#my-button').click(function(){
+		alert('Mooo!');
+	})
